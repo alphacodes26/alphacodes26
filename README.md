@@ -1,6 +1,8 @@
 🌌 NebulaDev 🌌
+
 Hello there, I'm @alphacodes26, or NebulaDev, who has a deep interest in software development and Linux.
 Currently working on NebulaOS, an operating system meant for creators.
+
 
 I'm known as ScrumbPie and AeroOverload elsewhere.
 
